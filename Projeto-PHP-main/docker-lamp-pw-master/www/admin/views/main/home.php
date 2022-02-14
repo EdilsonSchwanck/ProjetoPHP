@@ -1,0 +1,2 @@
+<h1>Página inicial ADM</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat rerum reprehenderit qui incidunt architecto molestiae nam tenetur perferendis odio provident, vitae dignissimos labore iusto debitis maiores officia in quidem nostrum!</p>

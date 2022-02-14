@@ -1,0 +1,2 @@
+<h1> Págaina de produtos</h1>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore, illum nam excepturi ipsum fuga voluptate necessitatibus? Dolorum consequatur ullam optio ipsam qui nostrum ad, fugiat, adipisci nulla sit repellat obcaecati.</p>
